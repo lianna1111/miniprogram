@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "用户中心",
+  "usingComponents": {
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-swiper": "/GraceUI5/components/gui-swiper"
+  }
+}

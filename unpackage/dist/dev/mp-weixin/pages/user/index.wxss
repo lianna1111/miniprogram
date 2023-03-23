@@ -1,0 +1,7 @@
+
+.user-header{overflow: visible;padding-top: 20rpx;background-color:#ffcb52 ;height: 200rpx;}
+.user-center{	 box-shadow:5rpx 2rpx 40rpx #e6e6e6;position: relative;width:630rpx;height:300rpx;margin-top:50rpx;padding-left: 30rpx;padding-right:30rpx;background-color: #FFF;border-radius: 15rpx;}
+.user-face{position: absolute;top: -50rpx;left: 50rpx;padding-left: 30rpx;padding-right:30rpx;border-bottom-left-radius: 15rpx;border-bottom-right-radius: 15rpx;}
+.user-hand{width:630rpx;padding: 0 30rpx 30rpx 30rpx;background-color: #FFF;border-bottom-left-radius: 15rpx;border-bottom-right-radius: 15rpx;border-left: 1px solid #fff4d6;border-right: 1px solid #fff4d6;border-bottom: 1px solid #fff4d6;}
+.user-hand-item{border-top: 1px solid #fff4d6;padding-top: 30rpx;}
+

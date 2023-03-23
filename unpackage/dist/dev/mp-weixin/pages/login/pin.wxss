@@ -1,0 +1,5 @@
+
+.lineH60{line-height:60rpx;}
+.gui-number-input{width:80rpx; height:80rpx; line-height:80rpx; font-size:32rpx; font-weight:700; color:#A5A7B2; text-align:center; margin:10rpx 20rpx;  background-color:#FFFFFF;
+border-bottom:1px solid #D5D6D8;}
+

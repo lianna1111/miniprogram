@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "pui-swiper": "/components/pui-swiper",
+    "pui-chayan": "/components/pui-chayan"
+  }
+}

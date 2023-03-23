@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "上传风采照",
+  "usingComponents": {
+    "pui-upload-images": "/components/pui-upload-images"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/reg",
+    "pages/login/login",
+    "pages/login/pin",
+    "pages/login/index",
+    "pages/login/forget",
+    "pages/login/findPword",
+    "pages/user/index",
+    "pages/index/test",
+    "pages/photograph/index",
+    "pages/contest/health",
+    "pages/contest/success",
+    "pages/contest/adress",
+    "pages/contest/contest",
+    "pages/contest/daytime",
+    "pages/contest/car",
+    "pages/contest/book",
+    "pages/contest/contact",
+    "pages/contest/photos"
+  ],
+  "subPackages": [],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffcb52",
+    "navigationBarTitleText": " ",
+    "backgroundColor": "#Fff"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#006065",
+    "borderStyle": "black",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabbar/index.png",
+        "selectedIconPath": "static/tabbar/index_active.png"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "text": "我的",
+        "iconPath": "static/tabbar/my.png",
+        "selectedIconPath": "static/tabbar/my_active.png"
+      }
+    ]
+  },
+  "requiredBackgroundModes": [
+    "audio",
+    "location"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["GraceUI5/components/gui-popup-menu"],{"1b7a":function(t,n,e){"use strict";e.r(n);var u=e("6072"),r=e("c329");for(var o in r)"default"!==o&&function(t){e.d(n,t,(function(){return r[t]}))}(o);e("279d");var i,a=e("f0c5"),c=Object(a["a"])(r["default"],u["b"],u["c"],!1,null,"b571d3ec",null,!1,u["a"],i);n["default"]=c.exports},"1bd8":function(t,n,e){},"279d":function(t,n,e){"use strict";var u=e("1bd8"),r=e.n(u);r.a},"37a9":function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;e("53e5");var u={name:"gui-popup-menu",props:{menuWidth:{type:String,default:"258rpx"},background:{type:String,default:"rgba(0,0,0, 0.3)"},zIndex:{type:Number,default:99},top:{type:String,default:0},right:{type:String,default:0},isArrow:{type:Boolean,default:!0},arrowDirection:{type:String,default:"right"},arrowMargin:{type:String,default:"0 15rpx"}},data:function(){return{showIn:!1,outting:!1}},methods:{stopfun:function(t){return t.stopPropagation(),null},open:function(){this.outting=!1,this.showIn=!0},close:function(){var t=this;this.outting=!0,setTimeout((function(){t.showIn=!1}),200)},setTop:function(t){this.top=t},setRight:function(t){this.right=t}}};n.default=u},6072:function(t,n,e){"use strict";var u;e.d(n,"b",(function(){return r})),e.d(n,"c",(function(){return o})),e.d(n,"a",(function(){return u}));var r=function(){var t=this,n=t.$createElement;t._self._c},o=[]},c329:function(t,n,e){"use strict";e.r(n);var u=e("37a9"),r=e.n(u);for(var o in u)"default"!==o&&function(t){e.d(n,t,(function(){return u[t]}))}(o);n["default"]=r.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'GraceUI5/components/gui-popup-menu-create-component',
+    {
+        'GraceUI5/components/gui-popup-menu-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("1b7a"))
+        })
+    },
+    [['GraceUI5/components/gui-popup-menu-create-component']]
+]);

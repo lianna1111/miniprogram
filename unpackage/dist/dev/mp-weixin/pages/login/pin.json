@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "获取验证码",
+  "usingComponents": {
+    "gui-number-keyboard": "/GraceUI5/components/gui-number-keyboard"
+  }
+}

@@ -1,0 +1,11 @@
+
+.form-input{
+	border: 1rpx solid #BEBEBE;
+	border-radius: 20rpx;
+	margin-bottom: 30rpx;
+	background-color: #FCFCFC;
+}
+.form-input > text.gui-icons{
+	margin-left: 25rpx;
+}
+

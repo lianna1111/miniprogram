@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "精彩照片",
+  "usingComponents": {
+    "gui-popup": "/GraceUI5/components/gui-popup",
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-popup-menu": "/GraceUI5/components/gui-popup-menu",
+    "gui-iphone-bottom": "/GraceUI5/components/gui-iphone-bottom"
+  }
+}

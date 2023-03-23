@@ -1,0 +1,1 @@
+<block wx:if="{{need}}"><view style="{{'height:'+(height)+';'}}" class="data-v-0f1e2002"></view></block>
